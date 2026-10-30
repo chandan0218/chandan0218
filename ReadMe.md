@@ -1,5 +1,21 @@
 # 💫 About Me:
-🔭 I’m currently working on building scalable web applications, SaaS platforms, REST APIs, and AI-powered solutions.<br><br>👯 I’m looking to collaborate on innovative SaaS products, open-source projects, AI integrations, and full-stack applications.<br><br>🤝 I’m looking for help with advanced system architecture, cloud infrastructure, application scalability, and performance optimization.<br><br>🌱 I’m currently exploring AI integrations, automation, modern backend architectures, and cloud technologies.<br><br>💬 Ask me about Node.js, Laravel, PHP, React.js, MySQL, REST APIs, GraphQL, Flutter, AWS, and Technical Project Management.<br><br>⚡ Fun fact: I've worked on 80+ projects, collaborated with international clients, and managed development teams of up to 12 members.
+# Hi, I'm Chandan Pathak 👋
+
+### Senior Full Stack Developer | Technical Project Manager
+
+I'm a Full Stack Developer with 10 years of experience building scalable web applications, SaaS platforms, REST APIs, and mobile applications.
+
+I specialize in backend development, full-stack architecture, API integrations, database optimization, and managing end-to-end software development projects.
+
+**A little about me:**
+- 💻 10 years of software development experience
+- 🚀 Delivered 80+ projects across different industries
+- 👨‍💻 Experience leading development teams of up to 12 members
+- 🌎 6+ years of experience working with international clients, primarily from the US
+- 📱 Experience building web and mobile applications
+- 🤝 Experienced in client communication, project planning, estimation, and delivery
+
+I enjoy solving complex technical problems and turning business ideas into scalable software products.
 
 
 ## 🌐 Socials:
