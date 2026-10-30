@@ -1,4 +1,3 @@
-# 💫 About Me:
 # Hi, I'm Chandan Pathak 👋
 
 ### Senior Full Stack Developer | Technical Project Manager
